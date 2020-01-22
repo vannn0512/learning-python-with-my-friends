@@ -1,1 +1,11 @@
-# learning-python-with-my-friends
+# 安装
+略
+# 引入包
+
+# 读取文件
+
+# 循环
+
+# 计算
+
+# 输出
