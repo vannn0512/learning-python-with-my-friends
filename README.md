@@ -6,10 +6,17 @@
 * 读取excel文件
 * 读取txt文件
 
+## 条件判断（运算符）
+
 ## 循环
 
 * for each
 * while
+
+## 数据结构
+* list 链表
+* dist 字典
+* tuple 元组
 
 ## 计算
 
